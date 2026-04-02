@@ -31,7 +31,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name        = "YOUR_NAME"
+        self.name        = "ANONTA"
         self.focus       = ["AI Agents", "LLM Tools", "SaaS Products"]
         self.experience  = "Full-stack AI — from model to UI to deployment"
         self.philosophy  = "Ship fast. Iterate faster."
